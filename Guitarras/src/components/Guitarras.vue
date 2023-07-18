@@ -10,7 +10,7 @@
         }
     })
 
-    defineEmits(['agregar-carrito'])
+    defineEmits(['agregarCarrito'])
 </script>
 
 <template>
